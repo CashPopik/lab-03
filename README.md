@@ -15,4 +15,5 @@ TA help and Supporting Lab Documentation
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+
+No verbal collaboration with other students
